@@ -1,0 +1,14 @@
+{
+  "name": "dio-desafio-classificador-de-nivel-de-heroi",
+  "version": "1.0.0",
+  "description": "Desafio Classificador de nível de Herói",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
